@@ -1,4 +1,4 @@
-# presentation
+# Ma presentation
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed-zelmati.presentation" />
 
@@ -42,7 +42,6 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,php,mysql,bash,c#,java" />
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
@@ -50,12 +49,9 @@
   <br>
   <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZELMAT/Mohammed-ZELMATI/output/github-contribution-grid-snake.svg" /-->
  
-  <br/><br/><br/>
+  <br/>
 </div>
 
-<hr/>
-
-<br/>
 <hr/>
 
 <div align="center">
@@ -65,8 +61,6 @@
  
   <br/><br/><br/>
 </div>
-
-<hr/>
 
 <hr/>
 
@@ -80,16 +74,12 @@
 
 <hr/>
 
-<hr/>
-
-<hr/>
-
 <div align="center">
   <h2>🐍 liste de projets 🐍</h2>
   <br>
   <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZELMAT/Mohammed-ZELMATI/output/github-contribution-grid-snake.svg" /-->
  
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
@@ -101,14 +91,6 @@
    <br/>
   <img width=325 align="center" src="https://github-readme-statistiques-ZELMAT.app/api/top-langs/?username=Mohammed-ZELMATI&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-statistiques" alt="top langs" />
 </div-->
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
 <hr/>
 
 <h2 align="center">⚡ les réseaux sociaux professionnels ⚡</h2>
