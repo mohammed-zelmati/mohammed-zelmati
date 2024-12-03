@@ -55,6 +55,45 @@
 
 <hr/>
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 biographie professionnelle 🐍</h2>
+  <br>
+  <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZELMAT/Mohammed-ZELMATI/output/github-contribution-grid-snake.svg" /-->
+ 
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 Les badges et les trophées 🐍</h2>
+  <br>
+  <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZELMAT/Mohammed-ZELMATI/output/github-contribution-grid-snake.svg" /-->
+ 
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<hr/>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 liste de projets 🐍</h2>
+  <br>
+  <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZELMAT/Mohammed-ZELMATI/output/github-contribution-grid-snake.svg" /-->
+ 
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Statistiques ⚡</h2>
 <br>
 <!--div align=center>
@@ -70,3 +109,8 @@
 <br/>
 
 <br/>
+<hr/>
+
+<h2 align="center">⚡ les réseaux sociaux professionnels ⚡</h2>
+<br>
+
