@@ -95,4 +95,27 @@
 
 <h2 align="center">⚡ les réseaux sociaux professionnels ⚡</h2>
 <br>
+<!--à refaire et à compléter
+## Biographie Professionnelle Une brève présentation de soi-même ou de ses compétences professionnelles. 
+## Badges et Trophées - **Certifications** : Nom de la certification - 
+**Compétences** : Liste des compétences - 
+**Contributions Open Source** : Contributions importantes - 
+**Réalisations Professionnelles** : Réalisations marquantes ## Projets Importants 1. 
+**Nom du Projet 1** : Brève description du projet. 
+2. **Nom du Projet 2** : Brève description du projet. 
+3. **Nom du Projet 3** : Brève description du projet. 
+4. **Nom du Projet 4** : Brève description du projet. 
+## Statistiques - 
+**Contributions** : Statistiques de contributions - 
+**Activités Open Source** : Détails des activités open source 
+## Projets Épinglés 
+- [Nom du Projet 1](lien) 
+- [Nom du Projet 2](lien) 
+- [Nom du Projet 3](lien) 
+- [Nom du Projet 4](lien) 
+## Réseaux Sociaux Professionnels 
+- [LinkedIn](https://www.linkedin.com/in/tonprofil) 
+- [X (anciennement Twitter)](https://www.x.com/tonprofil) 
+- [Portfolio](https://tonportfolio.com
+-->
 
