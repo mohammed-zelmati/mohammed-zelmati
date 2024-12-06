@@ -25,10 +25,10 @@
   <a href="mailto:mohammed.zelmati@laplateforme.io">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/Mohammed-ZELMATI" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-zelmati-5a3283340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://ZELMAT.github.io" target="_blank">
+  <a href="https://mohammed-zelmati.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
