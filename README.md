@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 Je suis étudiant Bachelor actuellement sur **La plateforme Marseille**
+ 🔭  **Espérant administrateur système et réseaux**
  
- 🌱 J'apprends actuellement **La Cybersécurité**
+ 🌱 J'apprends actuellement **La Cybersécurité à La plateforme Marseille**
 
 💬 Posez-moi des questions  **[Cliquez ici](https://github.com/mohammed-zelmati/presentation/issues)**
 
